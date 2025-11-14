@@ -82,15 +82,31 @@
 🔗 **LinkedIn**: **linkedin.com/in/kartik-patil-5389412a0**
 
 ---
-<a href="https://www.linkedin.com/in/kartik-patil-5389412a0/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+- **📨 Reach Out Anytime**
+<p align="left">
 
- <p align="center">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <!-- Instagram -->
+  <a href="https://instagram.com/K4rtik_.0" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+         alt="instagram" width="45" height="45"
+         style="filter: drop-shadow(0px 0px 6px #E4405F);" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:kp862420@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" 
+         alt="gmail" width="45" height="45"
+         style="filter: drop-shadow(0px 0px 6px #D14836);" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/kartik-patil-5389412a0/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="linkedin" width="45" height="45"
+         style="filter: drop-shadow(0px 0px 6px #0A66C2);" />
+  </a>
+
 </p>
-
 
 ---
 
