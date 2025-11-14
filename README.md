@@ -170,16 +170,47 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" alt="colab" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="seaborn" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="55" height="55"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sql" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="55" height="55"/>
 
 </p>
 
- <!-- Inline neon snake (paste into README as raw HTML block) -->
+ 
+ 
+
 <div align="center">
-  <!-- paste the entire SVG content here (same as snake.svg above) -->
-  <!-- For brevity, put: -->
-  <img src="snake.svg" alt="Neon snake animation" />
+
+### 🔥 Most Used Languages
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikpatil726&layout=compact&langs_count=8&theme=radical&border_radius=15&card_width=380" 
+  alt="Top Languages" 
+/>
+
+---
+
+### ⚡ GitHub Analytics
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Kartikpatil726&show_icons=true&theme=radical&border_radius=15&include_all_commits=true&count_private=true" 
+  alt="GitHub Stats" 
+/>
+
+---
+
+### 🔥 Contribution Activity (Streak)
+<img 
+  src="https://streak-stats.demolab.com?user=Kartikpatil726&theme=radical&border_radius=15" 
+  alt="GitHub Streak" 
+/>
+
+---
+
+### 🏆 GitHub Achievements
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=Kartikpatil726&theme=algolia&no-frame=true&row=1&column=6" 
+  alt="Trophies" 
+/>
+
 </div>
+
+  
