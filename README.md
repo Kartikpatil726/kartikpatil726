@@ -83,25 +83,58 @@
 
 ---
 
-> Pure Data Science version ready! Agar aur minimal / fancy / emoji‑heavy chahiye toh batao.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ravigup81300184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ravi-gupta-44bb451b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/__ravi_gupta226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCOJospamwhg5J9SJ4SGtbzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+ <p align="center">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
 
+
+---
+
+
+## 🔥 About (Neon)
+**Passionate about Machine Learning, NLP, and Data Analysis.** I love building models and turning data into insights.
+
+
+---
+
+
+## 🛠️ Tech Stack
+
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge" />
+</p>
+
+
+---
+
+
+## 📂 Projects
+- ML Classification Model — preprocessing → features → model (RandomForest/SVM)
+- NLP Sentiment Classifier — TF‑IDF + Logistic Regression
+
+
+---
+
+
+> _Neon tip:_ Use bold emojis and centered badge rows to get that cyberpunk vibe.
+
+ 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  
  
    
-  
+  </p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
  
-</p>
+ 
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="55" height="55"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="55" height="55"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="55" height="55"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" alt="colab" width="55" height="55"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit" width="55" height="55"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="seaborn" width="55" height="55"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="55" height="55"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sql" width="55" height="55"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="55" height="55"/> </p>
+
  
