@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Patil</h1>
-<h3 align="center">A passionate Software Development Engineer from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
