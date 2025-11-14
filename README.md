@@ -100,12 +100,16 @@
          style="filter: drop-shadow(0px 0px 6px #E4405F);" />
   </a>
 
-  <!-- Gmail -->
-  <a href="mailto:kp862420@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" 
-         alt="gmail" width="45" height="45"
-         style="filter: drop-shadow(0px 0px 6px #D14836);" />
-  </a>
+<!-- Gmail -->
+<a href="mailto:kp862420@gmail.com" target="_blank">
+  <img 
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+    alt="gmail"
+    width="45"
+    height="45"
+  />
+</a>
+
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/kartik-patil-5389412a0/" target="_blank">
