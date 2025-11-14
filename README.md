@@ -38,6 +38,14 @@
 * Python (Primary)
 * SQL
 
+<!-- GAMING RGB GLITCH TEXT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=900&lines=K4rtik_.0;DATA+SCIENCE+PLAYER+1+READY;MACHINE+LEARNING+LOADING...;NEURAL+NETWORKS+POWER+UP;WELCOME+TO+THE+GAME+DEV+ARENA" alt="typing animation" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff0033&height=4&section=header&reversal=true&animation=fadeIn"/>
+</p>
+
 ### **Libraries & Tools**
 
 * **Python DS Stack:** NumPy, Pandas, Matplotlib, Seaborn, Scikit‑learn
@@ -149,11 +157,24 @@
  
  
    
-  </p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
- align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="55" height="55"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="55" height="55"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="55" height="55"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" alt="colab" width="55" height="55"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit" width="55" height="55"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="seaborn" width="55" height="55"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="55" height="55"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sql" width="55" height="55"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="55" height="55"/> </p>
+<p align="left">
 
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="55" height="55"/>
 
+  <!-- Python DS Stack -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg" alt="colab" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="seaborn" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sql" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="55" height="55"/>
+
+</p>
 
  
