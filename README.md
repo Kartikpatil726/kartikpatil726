@@ -1,18 +1,89 @@
-<h1 align="center">Hi 👋, I'm Kartik Patil/h1>
+<h1 align="center">Hi 👋, I'm Kartik Patil</h1>
 <h3 align="center">A passionate Software Development Engineer from India</h3>
 
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
-- 🌱 I’m currently learning **DSA, Web Development, Machine Learning, and NLP**
-- 💻 I’m currently working as a **Content Development-Tech Intern at Unstop**
-- 🎨 I have experience in **Frontend and Backend Development** with **Django, React.js, Node.js, Express.js**
-- 🔐 Skilled in **Website Penetration Testing** and familiar with various **security tools**
-- 🤖 Learning  **AI-Integrated Website Development**
-- 📚 Check out my projects on **[Project & work ](https://github.com/guptaravimp?tab=repositories)**
-- 👤 Previously interned at **Bluestock Fintech (Frontend Developer) & GeeksforGeeks (Technical Content Writer)**
-- 📝 Published multiple articles on **GeeksforGeeks** related to Software Development
-- 💬 Ask me about **C++, DSA, HTML, CSS, JavaScript, Python, Machine Learning, and NLP**
-- 📧 Reach me at **guptaravicse22@gmail.com**
+# 💫 Kartik Dattatray Patil — Data Science Enthusiast
+
+### `Data Science | Machine Learning | NLP | Analytics`
+
+---
+
+## 🚀 About Me
+
+- 🌱 **I’m currently learning:** Machine Learning, NLP, Statistics, Data Analysis
+
+- 📊 **Focused on:** End‑to‑end Data Science — from data cleaning to model building
+
+- 🤖 **Interested in:** ML models, NLP pipelines, model evaluation & optimization
+
+- 🧠 **Passion:** Turning raw data into real insights and predictive systems
+
+- 📧 **Reach me at:** [kp862420@gmail.com](mailto:kp862420@gmail.com)
+
+---
+
+## 🛠️ Data Science Tech Stack
+
+### **Core Skills**
+
+* Exploratory Data Analysis (EDA)
+* Data Cleaning & Preprocessing
+* Machine Learning (Supervised & Unsupervised)
+* NLP basics (Text cleaning, TF‑IDF, simple classifiers)
+* Model evaluation & tuning (AUC, Precision‑Recall, GridSearch)
+
+### **Languages**
+
+* Python (Primary)
+* SQL
+
+### **Libraries & Tools**
+
+* **Python DS Stack:** NumPy, Pandas, Matplotlib, Seaborn, Scikit‑learn
+* **Notebooks:** Jupyter, Google Colab
+* **Other tools:** Git, GitHub, Excel
+
+---
+
+## 📂 Projects (Data Science Only)
+
+* **ML Classification Model** — Preprocessing → Feature engineering → Model training (SVM/RandomForest)
+* **NLP Sentiment Classifier** — Text cleaning, TF‑IDF, logistic regression classifier
+* **EDA Case Study** — Insights, correlations, visualizations using Pandas + Seaborn
+* **Regression Model** — Predictive analysis with error evaluation (MAE/RMSE)
+
+---
+
+## 🎯 What I’m Learning Next
+
+* Advanced NLP (word embeddings, transformers basics)
+* Feature engineering & model deployment
+* Time Series forecasting fundamentals
+* Statistics + Probability for DS mastery
+
+---
+
+## ⭐ Badges
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=plotly\&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge)
+
+---
+
+## 📫 Contact
+
+📧 **Email:** **[kp862420@gmail.com](mailto:kp862420@gmail.com)**
+🔗 **GitHub:** Kartikpatil726
+🔗 **LinkedIn**: **linkedin.com/in/kartik-patil-5389412a0**
+
+---
+
+> Pure Data Science version ready! Agar aur minimal / fancy / emoji‑heavy chahiye toh batao.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
