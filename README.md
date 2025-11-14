@@ -177,10 +177,9 @@
 
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2000&pause=800&color=00F0FF&center=true&vCenter=true&width=900&lines=NEON+LOOP+GAME;CREATED+BY+K4rtik_.0;CYBERPUNK+MINI+GAME;PRESS+START!!" />
-</p>
- 
-![Game Preview](game-preview.gif)
-https://Kartikpatil726.github.io/neon-loop/
-
+ <!-- Inline neon snake (paste into README as raw HTML block) -->
+<div align="center">
+  <!-- paste the entire SVG content here (same as snake.svg above) -->
+  <!-- For brevity, put: -->
+  <img src="snake.svg" alt="Neon snake animation" />
+</div>
