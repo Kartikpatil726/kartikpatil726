@@ -1,62 +1,89 @@
 # 👋 Hi, I'm Kartik Patil
 
-**SQL & Data Analytics Enthusiast | Azure SQL | Data Projects**
+**SQL | Data Analytics | Python | Azure SQL | Data Projects**
 
 ---
 
 ## 🚀 About Me
 
-I am a B.Tech Computer Science Engineering student with strong hands-on experience in **SQL and data analysis**.
+I am a Computer Science Engineering student with hands-on experience in **SQL, data analysis, and Python-based projects**.
 
-My primary focus is working with **relational databases**, writing **optimized SQL queries**, and analyzing
-**real-world datasets** to extract meaningful business insights.
+I enjoy working with **real-world datasets**, writing **SQL queries to extract insights**, and using **Python for exploratory data analysis and visualization**.
 
-I have completed multiple **SQL assignments and case studies** using **Azure SQL, MySQL, and SQLite**, and
-I maintain all my work on GitHub as a learning portfolio.
+My GitHub showcases a mix of **SQL case studies, data analytics projects, and learning-based Python/ML work**, reflecting my continuous learning journey.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🧠 Key Skill Areas
 
-### 🔹 SQL & Databases
-- SQL (Joins, Subqueries, Views, CASE, Functions, Stored Procedures)
-- MySQL
-- SQLite
-- Azure SQL Database
-- SQL Server (Azure Data Studio)
+### 🔹 SQL & Databases (Strong Focus)
+- Complex SQL queries (JOINs, GROUP BY, CASE, Subqueries)
+- Views, Functions, Stored Procedures
+- Azure SQL Database, MySQL, SQLite
+- Business-focused data analysis using SQL
 
-### 🔹 Data Analysis
+### 🔹 Data Analytics
 - Exploratory Data Analysis (EDA)
-- Aggregations & reporting
-- Business-focused data insights
+- Data cleaning & transformation
+- Aggregations, reporting & insights
+- Visualization using Python libraries
+
+### 🔹 Python & ML (Learning + Practice)
+- Pandas, NumPy for data handling
+- Matplotlib & Seaborn for visualization
+- Basic ML models (classification, regression)
+- Beginner-level NLP (TF-IDF, sentiment analysis)
 
 ### 🔹 Tools & Platforms
 - Microsoft Azure
 - Docker (basic usage)
 - Git & GitHub
+- Jupyter Notebook, Google Colab
 - MS Excel
 
 ---
 
 ## 📂 Featured Projects
 
-- **SQL Case Study – Sales & Profit Analysis**  
-  → Performed joins, aggregations, profit and expense analysis on business datasets  
+### 🔸 SQL Case Study – Sales & Profit Analysis
+- Analyzed sales, profit, COGS, and expenses using SQL  
+- Applied joins, aggregations, and conditional logic  
+- Generated product-wise and region-wise insights  
 
-- **Food Delivery Dataset Analysis (SQL)**  
-  → Extracted insights using GROUP BY, CASE statements, and subqueries  
+### 🔸 Food Delivery Dataset Analysis (SQL)
+- Worked on a Zomato-like dataset  
+- Used GROUP BY, HAVING, CASE, and subqueries  
+- Focused on real business questions and reporting  
 
-- **Azure SQL Practice Projects**  
-  → Worked with views, stored procedures, and user-defined functions  
+### 🔸 Azure SQL Practice Projects
+- Practiced SQL in Azure SQL Database  
+- Created views, stored procedures, and functions  
+- Hands-on experience with data import/export  
 
-> 📌 All projects are available in my GitHub repositories with proper SQL scripts and explanations.
+### 🔸 Walmart Sales Analysis (Python)
+- Performed EDA on Walmart sales data  
+- Used Pandas and Matplotlib for insights & trends  
+
+### 🔸 Airbnb Case Study (Python)
+- Analyzed pricing, availability, and location trends  
+- Focused on data cleaning and visualization  
+
+### 🔸 COVID-19 Data Analysis
+- Analyzed global COVID-19 trends  
+- Visualized cases and patterns using Python  
+
+### 🔸 Stock Price Prediction (Learning Project)
+- Implemented basic regression / time-series concepts  
+- Focused on understanding data behavior  
+
+> 📌 Each project represents practical learning with datasets and tools relevant to data roles.
 
 ---
 
 ## 🎯 Currently Learning
 - Advanced SQL optimization
-- Data analytics use cases
-- Basics of Python for data analysis
+- Business analytics use cases
+- Python for analytics & automation
 - Cloud fundamentals (Azure)
 
 ---
@@ -64,7 +91,8 @@ I maintain all my work on GitHub as a learning portfolio.
 ## 📫 Contact
 - 📧 Email: kp862420@gmail.com  
 - 🔗 LinkedIn: https://linkedin.com/in/kartik-patil-5389412a0  
+- 🔗 GitHub: https://github.com/Kartikpatil726  
 
 ---
 
-⭐ *This GitHub profile represents my continuous learning and hands-on practice in SQL and data analytics.*
+⭐ *This GitHub profile reflects my learning journey across SQL, data analytics, and Python-based projects.*
