@@ -48,9 +48,34 @@
 
 ### **Libraries & Tools**
 
-* **Python DS Stack:** NumPy, Pandas, Matplotlib, Seaborn, Scikit‑learn
-* **Notebooks:** Jupyter, Google Colab
-* **Other tools:** Git, GitHub, Excel
+## 🛠️ Libraries & Tools
+
+### 🔹 Databases & SQL
+- MySQL
+- SQLite
+- Azure SQL Database
+- SQL Server (Azure Data Studio)
+
+### 🔹 Python Data & ML Stack
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+### 🔹 Notebooks & Analysis
+- Jupyter Notebook
+- Google Colab
+
+### 🔹 Cloud & DevOps
+- Microsoft Azure
+- Docker
+
+### 🔹 Version Control & Utilities
+- Git
+- GitHub
+- MS Excel
+
 
 ---
 
