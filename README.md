@@ -40,6 +40,7 @@ My GitHub showcases a mix of **SQL case studies, data analytics projects, and le
 - Git & GitHub
 - Jupyter Notebook, Google Colab
 - MS Excel
+- Power BI, Tableau
 
 ---
 
